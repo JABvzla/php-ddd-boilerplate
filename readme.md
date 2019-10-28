@@ -100,3 +100,4 @@ Dentro del directorio `/app` tendremos todos los ficheros de nuestro proyecto, s
 - **`src/infrastructure`** : En este directorio de infraestructura van todas las conexiones de nuestra aplicacion al framework, paquete o cualquier servicio de terceros.
 
 - **`src/domain`** : El directorio dominio es el núcleo del sistema y establece como deben comunicarse las demás capas (application, infrastructure) con ella. Es la única que no tiene acoplamientos de las otras capas.
+
