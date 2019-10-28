@@ -101,3 +101,4 @@ Dentro del directorio `/app` tendremos todos los ficheros de nuestro proyecto, s
 
 - **`src/domain`** : El directorio dominio es el núcleo del sistema y establece como deben comunicarse las demás capas (application, infrastructure) con ella. Es la única que no tiene acoplamientos de las otras capas.
 
+
